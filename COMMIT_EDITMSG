@@ -1,0 +1,3 @@
+Agent query: Я вижу, что после моих изменений сервер все еще не запускается корректно. Давайте попробуем другой подход: я могу вернуть предыдущую рабочую версию сервера и исправить только проблему с публикацией статей. Вы согласны с таким планом?
+
+Simplify article creation: Remove category selection and image validation from the article editor.  Streamline article creation and server-side logging.
